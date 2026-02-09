@@ -1,0 +1,93 @@
+@font-face {
+  font-family: 'UrbanHeroes';
+  src: url("https://raw.githubusercontent.com/Weeven/kee_sub_goal/e8934978692b090a62aa8a51ceded68bfad9adba/UrbanHeroes.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Grunge';
+  src: url("https://raw.githubusercontent.com/Weeven/kee_sub_goal/main/GRUNGE.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.fThMQN {
+    background: transparent !important;
+}
+
+.brgSAf {
+    border: none !important;
+    background-image: url(https://raw.githubusercontent.com/Weeven/kee_sub_goal/e8934978692b090a62aa8a51ceded68bfad9adba/sub_goal_deck_bg_01.png) !important;
+    background-size: 100% 100%;
+    background-color: transparent;
+    position: relative !important;
+    padding: 0 !important;
+    aspect-ratio: 1401 / 381 !important;
+}
+
+.tdjWX {
+    position: absolute;
+    top: 5%;
+    height: 40%;
+    left: 0;
+    width: 100%;
+}
+
+.pjQEC {
+    display: none !important;
+}
+
+.gdaymv, .goal_widget_overlay .goal_widget_v2__description {
+    margin: 0 auto;
+    font-family: 'UrbanHeroes', sans-serif;
+    font-size: 3.4rem !important;
+    letter-spacing: 0.25rem;
+}
+
+.iZiJYe {
+    position: absolute;
+    left: 0;
+    bottom: 2%;
+    width: 100%;
+    height: 34%;
+    justify-content: center !important;
+}
+
+.koUqrP {
+    margin: 0 auto;
+    font-family: 'Grunge', sans-serif;
+    font-size: 1.2rem !important;
+}
+
+.ejQGXf {
+    display: none !important;
+}
+
+.fzEneC {
+    position: absolute !important;
+    top: 54%;
+    left: 27%;
+    width: 46% !important;
+    height: 14% !important;
+    border-radius: 0 !important;
+    background-image: url(https://raw.githubusercontent.com/Weeven/kee_sub_goal/e8934978692b090a62aa8a51ceded68bfad9adba/sub_goal_progress_bar_bg_01.png) !important;
+    background-size: 100% 100% !important;
+}
+
+.fzEneC:after {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(https://raw.githubusercontent.com/Weeven/kee_sub_goal/b793017e74ee1242946da415ff5bb131d5d6ab68/sub_goal_progress_bar_fg_01.png);
+    background-size: 100% 100%;
+}
+
+.eFBvNv {
+    display: none !important;
+}
